@@ -1,0 +1,15 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+TestResults/
+artifacts/
+*.partial
+*.recording.wav
+*.flac
+*.jsonl
+
+# 手元専用のファイル
+作業ログ.md
+*.code-workspace
